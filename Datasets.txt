@@ -1,0 +1,5 @@
+Handwritten Names: https://www.kaggle.com/ssarkar445/handwriting-recognitionocr
+Sports Jerseys and similar: https://www.kaggle.com/mohtashimnawaz/cute80dataset
+Single Characters (similar to MNIST): https://www.kaggle.com/vaibhao/handwritten-characters
+Isolated Words: https://www.kaggle.com/eabdul/textimageocr
+Captcha: https://www.kaggle.com/famadio/captcha-2-text
